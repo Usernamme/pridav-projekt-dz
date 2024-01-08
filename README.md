@@ -9,7 +9,7 @@ title.ratings.tsv.gz - extracted as ratings.tsv
 
 name.basics.tsv.gz - extracted as basics.tsv
 
-all in root folder
+all in root directory
 
 ---
 
