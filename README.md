@@ -1,1 +1,0 @@
-# pridav-projekt-dz
